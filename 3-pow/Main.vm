@@ -23,4 +23,4 @@ function Main.main 0
     pop temp 2
 
 label while
-    goto while
+    goto while
